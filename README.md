@@ -60,7 +60,7 @@ src="https://static.wikia.nocookie.net/doki-doki-literature-club/images/e/ea/Mon
 
 <div align="right">
   <sub>
-    Illustration by <a href="https://www.pixiv.net/en/users/35069640">前髪</a>
+    Illustration by <a href="https://teamsalvato.com/">Team Salvato</a>
   </sub>
 </div>
 
@@ -70,6 +70,7 @@ src="https://static.wikia.nocookie.net/doki-doki-literature-club/images/e/ea/Mon
 
 <p align="center">
   <sub>
-    Credit: <a href="https://github.com/zillastar">zillastar</a> • Last Edited: 12/11/2022
+    Built by <b>Azusa</b> • Last Edited: 26/12/2025
   </sub>
 </p>
+

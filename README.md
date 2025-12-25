@@ -16,7 +16,6 @@ src="https://static.wikia.nocookie.net/doki-doki-literature-club/images/e/ea/Mon
 <hr>
 
 <h3>💬 Languages</h3>
-<p<h3>💬 Languages</h3>
 <p>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
@@ -26,7 +25,7 @@ src="https://static.wikia.nocookie.net/doki-doki-literature-club/images/e/ea/Mon
 </p>
 
 
-<h4>📚 Currently Learning</h4>
+<h3>📚 Currently Learning</h3>
 <p>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>

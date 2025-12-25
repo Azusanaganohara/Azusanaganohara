@@ -67,6 +67,11 @@ src="https://static.wikia.nocookie.net/doki-doki-literature-club/images/e/ea/Mon
 
 ---
 
+
+<p align="center">
+  <img src="https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg" width="1200" />
+</p>
+
 <p align="center">
   <sub>
     Built by <b>Azusa</b> • Last Edited: 26/12/2025

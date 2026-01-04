@@ -40,7 +40,6 @@ src="https://static.wikia.nocookie.net/doki-doki-literature-club/images/e/ea/Mon
 
 <h3>⚙️ Frameworks & Libraries</h3>
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 </p>

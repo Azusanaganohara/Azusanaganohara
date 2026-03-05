@@ -24,6 +24,7 @@ src="https://static.wikia.nocookie.net/doki-doki-literature-club/images/e/ea/Mon
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/.ASS-SubStation%20Alpha-444444?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
 </p>
 
 
@@ -32,7 +33,6 @@ src="https://static.wikia.nocookie.net/doki-doki-literature-club/images/e/ea/Mon
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
 </p>
 
 
@@ -42,6 +42,7 @@ src="https://static.wikia.nocookie.net/doki-doki-literature-club/images/e/ea/Mon
 <p>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prabogo-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
 </p>
 
 <hr>

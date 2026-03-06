@@ -6,16 +6,16 @@
 
 <img align="right" width="380" alt="Monika"
 src="https://static.wikia.nocookie.net/doki-doki-literature-club/images/e/ea/Monika_-_Full_Body_Illustration.png/revision/latest?cb=20180309112841"/>
-
+ᓚ₍ ^. .^₎
 <p>
-  ⭐ currently working on <b>web development</b><br>
-  💀 mostly working on <b>private repositories</b><br>
-  👾 a <b>student</b> learning things the hard (and fun) way
+  ⌯⌲ currently working on <b>web development</b><br>
+  ⌯⌲ mostly working on <b>private repositories</b><br>
+  ⌯⌲ a <b>student</b> learning things the hard (and fun) way
 </p>
 
 <hr>
 
-<h3>💬 Languages</h3>
+<h3>⌯✈︎ Languages</h3>
 <p>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
@@ -28,7 +28,7 @@ src="https://static.wikia.nocookie.net/doki-doki-literature-club/images/e/ea/Mon
 </p>
 
 
-<h3>📚 Currently Learning</h3>
+<h3>⌯✈︎ Currently Learning</h3>
 <p>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -38,7 +38,7 @@ src="https://static.wikia.nocookie.net/doki-doki-literature-club/images/e/ea/Mon
 
 <hr>
 
-<h3>⚙️ Frameworks & Libraries</h3>
+<h3>⌯✈︎ Frameworks & Libraries</h3>
 <p>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
@@ -47,7 +47,7 @@ src="https://static.wikia.nocookie.net/doki-doki-literature-club/images/e/ea/Mon
 
 <hr>
 
-<h3>🎨 Designing Tools</h3>
+<h3>⌯✈︎ Designing Tools</h3>
 <p>
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
   <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white"/>

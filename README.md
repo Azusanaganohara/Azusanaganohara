@@ -61,7 +61,7 @@ src="https://static.wikia.nocookie.net/doki-doki-literature-club/images/e/ea/Mon
 
 <br>
 
-<div align="right">
+<div align="center">
   <sub>
     Illustration by <a href="https://teamsalvato.com/">Team Salvato</a>
   </sub>
